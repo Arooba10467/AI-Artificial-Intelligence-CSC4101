@@ -1,1 +1,11 @@
+Titanic Dataset Analysis This repository contains assignment work in the course of Artificial Intelligence CSC4101 for tabular data analysis. objectives:
 
+Data manipulation
+Handling null Values
+Data analytics using bar plots
+Pandas operations
+Data preprocessing
+Normalization & Standardization
+HomeTask Notebook: https://colab.research.google.com/drive/13x6hRBpAlxmXCjJlFZvPJP83hfP3EWP2?usp=drive_link
+
+Dataset: Titanic dataset from Kaggle Tools: Python, Pandas, Seaborn, metplotlib pyplot
